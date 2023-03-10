@@ -1,7 +1,10 @@
 ![logo](https://github.com/Swapnil-CS/Swapnil-CS/blob/main/banner.gif)
 # Hi 👋, I'm Swapnil Basu Choudhury
 ### An enthusiastic coder from India
+
 ![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=green)
+![](https://github-profile-trophy.vercel.app/?username=Swapnil-CS&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 - 🔭 I’m currently working on **my Academic Project & my Problem Solving Skills**
