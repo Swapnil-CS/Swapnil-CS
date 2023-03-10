@@ -31,6 +31,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-CS&theme=vision-friendly-dark&hide_border=true)
-<img src="https://i.pinimg.com/originals/86/2b/53/862b5379102cab4d590b0ae38dca46d8.gif" width=350px align="right"><br>
+<img src="https://i.pinimg.com/originals/86/2b/53/862b5379102cab4d590b0ae38dca46d8.gif" width=300px align="right"><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-CS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
