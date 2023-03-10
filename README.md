@@ -33,4 +33,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-CS&theme=vision-friendly-dark&hide_border=true)
 <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="350px" align="right"><br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-CS&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-CS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
