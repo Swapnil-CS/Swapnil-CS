@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=green)
+![logo](https://github.com/Swapnil-CS/Swapnil-CS/blob/main/banner.gif)
 # Hi 👋, I'm Swapnil Basu Choudhury
 ### An enthusiastic coder from India
-[![](https://visitcount.itsvg.in/api?id=Swapnil-CS&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=green)
 
 
 - 🔭 I’m currently working on **my Academic Project & my Problem Solving Skills**
