@@ -1,4 +1,4 @@
-<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/banner.gif" align="centre">
+<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/banner.gif" align="right">
 <h1 align = center>Hi 👋, I'm Swapnil Basu Choudhury</h1>
 <h3 align = center>An enthusiastic coder from India</h3>
 
