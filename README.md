@@ -3,7 +3,7 @@
 <h1 align = center>Hi 👋, I'm Swapnil Basu Choudhury</h1>
 <h3 align = center>An enthusiastic coder from India</h3>
 
-![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=green)
+![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=blue)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Swapnil-CS&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
