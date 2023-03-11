@@ -36,5 +36,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-CS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Random Jokes:
+## 😜 Random Jokes:
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card"  />
