@@ -8,9 +8,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Swapnil-CS&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💫 About Me:
-> I am an undergraduate student of Computer Science. Presently I am pursuing a B.Sc(Honours) in Computer Science at Asutosh College.
-
 <img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/hi.gif" width=230px height=190px align="right">
+
+> I am an undergraduate student of Computer Science. Presently I am pursuing a B.Sc(Honours) in Computer Science at Asutosh College.
 
 - 🔭 I’m currently working on **my Academic Project & my Problem Solving Skills**
 - 🌱 I’m currently learning **Pandas, Automata, JavaScript, Tensorflow, Web Development**
