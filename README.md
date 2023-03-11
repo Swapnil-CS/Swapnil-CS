@@ -16,7 +16,7 @@
 - 😄 Pronouns: **His/him/he**
 - ⚡ Fun fact: **I do everything with fun**
 
-<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/transition.gif" width=600px align="center"><br>
+<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/transition.gif" width=100% height=200px align=center><br>
 
 ## 🌐 Connect with me:
 <p align="left">
