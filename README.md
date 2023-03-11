@@ -1,6 +1,6 @@
 ![logo](https://github.com/Swapnil-CS/Swapnil-CS/blob/main/banner.gif)
-# Hi 👋, I'm Swapnil Basu Choudhury
-### An enthusiastic coder from India
+<h1 align = center>Hi 👋, I'm Swapnil Basu Choudhury</h1>
+<h3 align = center>An enthusiastic coder from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=green)
 
