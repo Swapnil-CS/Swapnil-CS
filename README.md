@@ -8,7 +8,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Swapnil-CS&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💫 About Me:
-<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/hi.gif" width=230px height=190px align="right">
+<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/hi.gif" width=228px height=192px align="right">
 
 > I am an undergraduate student of Computer Science. Presently I am pursuing a B.Sc(Honours) in Computer Science at Asutosh College.
 
@@ -42,5 +42,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-CS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 😜 Random Jokes:
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card"  /><img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/pattern.gif" align="right">
-
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card"  />
