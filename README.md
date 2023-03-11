@@ -9,8 +9,8 @@
 
 ## 💫 About Me:
 > I am an undergraduate student of Computer Science. Presently I am pursuing a B.Sc(Honours) in Computer Science at Asutosh College.
-<br>
-<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/design.gif" width=200px height=200px align="right">
+
+<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/hi.gif" width=200px height=200px align="right">
 
 - 🔭 I’m currently working on **my Academic Project & my Problem Solving Skills**
 - 🌱 I’m currently learning **Pandas, Automata, JavaScript, Tensorflow, Web Development**
