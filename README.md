@@ -16,8 +16,9 @@
 - 😄 Pronouns: **His/him/he**
 - ⚡ Fun fact: **I do everything with fun**
 
-<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/transition.gif" width=75% height=200px align=center><br>
-
+```<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/transition.gif" width=75% height=200px align=center>
+```
+<br>
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://www.codechef.com/users/sbc2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sbc2001" height="30" width="40" /></a>
