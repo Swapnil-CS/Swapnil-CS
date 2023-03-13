@@ -38,7 +38,7 @@
 <img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/code-coding.gif" width=335px height=520px align="right">
 
 ![](https://github-readme-stats.vercel.app/api?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&PAT_1)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-CS&theme=vision-friendly-dark&hide_border=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&PAT_1)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&PAT_1)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-CS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
