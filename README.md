@@ -4,7 +4,7 @@
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=purple)
+![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=violet)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Swapnil-CS&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
