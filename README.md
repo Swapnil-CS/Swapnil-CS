@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/github-header-image.png">
+<img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/github-header-image.png" width=800 height=245>
 </p>
 
 
