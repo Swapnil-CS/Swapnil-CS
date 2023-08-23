@@ -41,6 +41,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&PAT_1)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&PAT_1)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-CS&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&PAT_1)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-CS&area=true&bg_color=0E1720&line=A3BBF5&point=FF8F8F&color=85A1F4&area_color=5B7fD2&title_color=99C0FF&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-CS&area=true&bg_color=0E1720&line=A3BBF5&point=FF8F8F&color=99C0FF&area_color=5B7fD2&title_color=C2D9FF&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 😜 Random Dev Jokes:
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card"  />
