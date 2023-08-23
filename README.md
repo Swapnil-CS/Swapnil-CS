@@ -2,8 +2,6 @@
 <img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/github-header-image.png">
 </p>
 
-<h1 align = center>Hi 👋, I'm Swapnil Basu Choudhury</h1>
-<h3 align = center>An enthusiastic coder from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=blue)
 
