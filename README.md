@@ -3,6 +3,7 @@
 </p>
 
 <hr>
+
 ![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=blue)
 
 ## 🏆 GitHub Trophies:
