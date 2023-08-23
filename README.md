@@ -1,4 +1,3 @@
-![logo](https://github.com/Swapnil-CS/Swapnil-CS/blob/main/github-header-image.png)
 <img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/github-header-image.png" align="center">
 
 <h1 align = center>Hi 👋, I'm Swapnil Basu Choudhury</h1>
