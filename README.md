@@ -2,7 +2,7 @@
 <img src="https://github.com/Swapnil-CS/Swapnil-CS/blob/main/github-header-image.png" alt="Swapnil Basu Choudhury">
 </p>
 
-
+<hr>
 ![](https://komarev.com/ghpvc/?username=Swapnil-CS&color=blue)
 
 ## 🏆 GitHub Trophies:
